@@ -1,5 +1,3 @@
-
-//****************NEW SECTION BELOW******************************
 import { searchMarvelCharacters } from "./marvelService.js"
 
 const DEFAULT_SEARCH_TERM = "spider"
